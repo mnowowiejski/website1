@@ -1,5 +1,47 @@
-h1
-{
-  color:Purple;
+body {
+    background-color: purple;
+    color:white;
+    width: 75%;
+    margin: auto;
+}
+
+a {
+  color:gold;
+}
+
+section {
+  clear: both;
+
+}
+
+
+
+li a{
+  color:white;
+  text-decoration: none;
+}
+
+nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin-left: 20px;
+  text-align: center;
+}
+
+a:hover{
+  color:gold;
+}
+
+img {
+  float: left;
+}
+
+footer {
+  clear: both;
+  background-color: gold;
 
 }

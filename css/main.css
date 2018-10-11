@@ -1,4 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker:400);
 body {
+    font: normal 100%/150% "Permanent Marker";
     background-color: purple;
     color:white;
     width: 75%;
@@ -38,6 +40,7 @@ a:hover{
 
 img {
   float: left;
+  margin-right: 3%;
 }
 
 footer {
